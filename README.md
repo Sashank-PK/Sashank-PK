@@ -1,9 +1,9 @@
 ## Hello There :wave::adult:, My name is Sashank | səʃa:nk |<sub> Pronuciation </sub>
 
 ### :information_source: An Engineer :man_technologist: interested in  
- - Hardware :film_strip:,  
+ - ML :robot:,  
  - Software:scroll:,  
- - ML :robot:
+ - Hardware :film_strip:
 
 #### :envelope: shany71294@gmail.com  
   
