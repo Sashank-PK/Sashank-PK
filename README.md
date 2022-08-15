@@ -12,6 +12,7 @@
 :two: Python/C++/C programming  
 :three: Digital System Design  
 :four: Process Automation
+:five: Front End Development
 
 #### :art: Hobbies:
 :video_game:  :black_nib:  :fried_egg:
