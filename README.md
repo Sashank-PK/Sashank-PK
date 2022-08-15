@@ -11,7 +11,7 @@
 :one: Data Visualization  
 :two: Python/C++/C programming  
 :three: Digital System Design  
-:four: Process Automation
+:four: Process Automation  
 :five: Front End Development
 
 #### :art: Hobbies:
