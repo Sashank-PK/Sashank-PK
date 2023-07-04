@@ -5,7 +5,7 @@
  - Software:scroll:,  
  - Hardware :film_strip:
 
-#### :envelope: shany71294@gmail.com  
+#### :envelope: shanky71294@gmail.com  
   
 #### :medal_sports: Good at:
 :one: Data Visualization  
