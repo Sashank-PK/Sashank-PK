@@ -1,17 +1,17 @@
 ## Hello There :wave::adult:, My name is Sashank | səʃa:nk |<sub> Pronuciation </sub>
 
 ### :information_source: An Engineer :man_technologist: interested in  
- - ML :robot:,  
- - Software:scroll:,  
- - Hardware :film_strip:
+ - AI/ML :robot:,  
+ - Data Analysis :bar_chart:;
+ - NLP :capital_abcd: :u7a7a:
 
 #### :envelope: shanky71294@gmail.com  
   
 #### :medal_sports: Good at:
 :one: Data Visualization  
 :two: Python/C++/C programming  
-:three: Digital System Design  
-:four: Process Automation  
+:three: Data Analysis  
+:four: Robotic Process Automation  
 :five: Front End Development
 
 #### :art: Hobbies:
